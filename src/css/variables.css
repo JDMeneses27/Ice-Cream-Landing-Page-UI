@@ -1,0 +1,36 @@
+:root {
+    --color-1:#FFFFFF;
+    --color-2:#BDD37F;
+    --color-3:#D81A5F;
+}
+
+@font-face {
+    font-family: "Kavoon-Regular";
+    src: url(../stora/font/kavoon/Kavoon-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Inter-SemiBold";
+    src: url(../stora/font/Inter/static/Inter_18pt-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "Seaweed-Script";
+    src: url(../stora/font/Seaweed\ Script\ Font/SeaweedScript-Regular.ttf);
+
+}
+
+@font-face {
+    font-family: "Lalezar-Regular";
+    src: url(../stora/font/Lalezar/Lalezar-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Inter-Bold";
+    src: url(../stora/font/Inter/static/Inter_18pt-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Inder-Regular";
+    src: url(../stora/font/Inder/Inder-Regular.ttf);
+}
